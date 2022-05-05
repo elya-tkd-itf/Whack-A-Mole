@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Whack-A-Mole</string>
+    <string name="rules_desc">Hit the mole while he is outside the hole, thereby earning victory points. Collect them as much as possible and improve your record! In each game you are given 30 seconds.</string>
+    <string name="rules">Rules:</string>
+    <string name="play">Play</string>
+    <string name="record_0">Record: 0</string>
+    <string name="menu">Menu</string>
+    <string name="play_again">Play again</string>
+    <string name="record_0">Record: 0</string>
+    <string name="score_0">Score: 0</string>
+    <string name="time_0">Time: 0</string>
+    <string name="score_0">Score: 0</string>
+</resources>
